@@ -1,0 +1,28 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:prettier/recommended"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "plugins": ["html"],
+  "settings": {
+    "html/html-extensions": [".html"],
+    "html/indent": "+2",
+    "html/report-bad-indent": "error"
+  },
+  "rules": {
+    "no-console": ["warn", {
+      "allow": ["warn", "error"]
+    }],
+    "no-plusplus": ["error", {
+      "allowForLoopAfterthoughts": true
+    }]
+  }
+}

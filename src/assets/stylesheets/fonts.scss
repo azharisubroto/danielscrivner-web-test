@@ -1,0 +1,159 @@
+@font-face {
+  font-family: 'Söhnemono kräftig';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f46bd4dee4ae4c8acfb8356_S%C3%B6hneMono-Kr%C3%A4ftig.otf')
+    format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: 'Söhne kräftig';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f46cc982582fa134c682f54_S%C3%B6hne-Kr%C3%A4ftig.otf')
+    format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: 'Söhne extraleicht';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f46d5a928d68b206fcd6eb4_S%C3%B6hne-Extraleicht.otf')
+    format('opentype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: 'Italianplateno1expanded';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f46e4ab0f5bba96d076f197_ItalianPlateNo1Expanded-Black.otf')
+    format('opentype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: 'Söhne buch';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f46d492978f8f0b4217639b_S%C3%B6hne-Buch.otf')
+    format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: 'Söhnemono buch';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f48d4d6f2aacb3a9e581440_S%C3%B6hneMono-Buch.otf')
+    format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: 'Söhne halbfett';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f4e54ede2631c3901fc48df_S%C3%B6hne-Halbfett.otf')
+    format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: 'Söhnemono halbfett';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f4f58f85adb5537805a6bc8_S%C3%B6hneMono-Halbfett.otf')
+    format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: 'Italianplateno1expanded';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f576c61380f2169c4c674e7_ItalianPlateNo1Expanded-Medium.otf')
+    format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Italianplateno1expanded';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f576c625cc18db11def0448_ItalianPlateNo1Expanded-Regular.otf')
+    format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Italianplateno1expanded';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f649a1f3c01c8ba7cd4b163_ItalianPlateNo1Expanded-Extrabold.otf')
+    format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Italianplateno1expanded';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f649a1f3c01c8ba7cd4b163_ItalianPlateNo1Expanded-Extrabold.otf')
+    format('opentype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Söhne leicht';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f46d53ed10b4f4305e03a3b_S%C3%B6hne-Leicht.otf')
+    format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Söhnemono halbfett';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f4f58f85adb5537805a6bc8_S%C3%B6hneMono-Halbfett.otf')
+    format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Italianplateno1expanded';
+  src: url('https://assets.website-files.com/5f46baf9863467a01b1aaab9/5f6b6e2c889a3111f28ed830_ItalianPlateNo1Expanded-Demibold.otf')
+    format('opentype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+.ls-2 {
+  letter-spacing: 2px !important;
+}
+
+.ls-04 {
+  letter-spacing: 0.4px !important;
+}
+
+.ls-16 {
+  letter-spacing: 1.6px !important;
+}
+
+.family-1 {
+  font-family: $family_1;
+  letter-spacing: 0.24px;
+}
+
+.family-2 {
+  font-family: $family_2;
+  letter-spacing: 0.15px;
+}
+
+.family-3 {
+  font-family: $family_3;
+  letter-spacing: 0.15px;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.fw-800 {
+  font-weight: 800;
+}
