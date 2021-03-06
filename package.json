@@ -12,7 +12,7 @@
     "check-eslint-config": "eslint --print-config .eslintrc | eslint-config-prettier-check",
     "check-stylelint-config": "stylelint-config-prettier-check",
     "lint-code": "eslint --fix **/*.js",
-    "lint-style": "stylelint 'src/assets/stylesheets/**/*.{css,scss}'",
+    "lint-style": "stylelint **/*.js",
     "analyze": "webpack-bundle-analyzer ./stats.json"
   },
   "devDependencies": {
